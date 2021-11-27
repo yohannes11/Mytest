@@ -3,4 +3,10 @@ int main()
 {
 printf("hello world");
 return 6;
+
+
+
+
+return 0;
+
 }
